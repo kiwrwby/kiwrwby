@@ -18,19 +18,18 @@
 ║                              nok1rby                                 ║
 +══════════════════════════════════════════════════════════════════════+
 ║                                                                      ║
-║   About:                                                             ║
+║   Abt:                                                               ║
 ║                                                                      ║
 ║ ├──│» nok1rby / kirby                                                ║
 ║ │     ├──│» 138                                                      ║
 ║ │                                                                    ║
-║ ├──│» RU / EN                                                        ║
+║ ├──│» RU / EN / IT                                                   ║
+║ ├──│» GEO:                                                           ║
+║ ├   ║ ├──│»somewhere in the Tibetan mountains                        ║
 ║ │                                                                    ║
-║ ├──│» somewhere on the internet                                     ║
+║ ├──│» os:                                                            ║
+║ │     ├──│» linux/macos                                              ║
 ║ │                                                                    ║
-║ ├──│» Linux                                                          ║
-║ │     ├──│» Artix                                                    ║
-║ │                                                                    ║
-║ ├──│» code / systems / strange shit                                 ║
 ║ │                                                                    ║
 ║ └──│» probably awake                                                 ║
 ║                                                                      ║
@@ -69,13 +68,13 @@
 </div>
 
 ```text
-things that somehow still compile
+some shit:
 
 Tethera
   android <-> macOS
 
 TomokoBot
-  telegram / ai / too much code
+  telegram / ai / slop
 ```
 
 <div align="center">
